@@ -1,6 +1,5 @@
 package sample.subject;
 
-import sample.BaseState;
 import sample.observer.Observer;
 
 import java.util.ArrayList;

@@ -1,6 +1,5 @@
 package sample.observer;
 
-import sample.BaseState;
 import sample.subject.Subject;
 import sample.subject.WeatherSensor;
 
